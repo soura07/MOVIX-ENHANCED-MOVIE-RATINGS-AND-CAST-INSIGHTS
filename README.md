@@ -65,7 +65,7 @@
 1. **Clone the repository**: 
    Begin by cloning this project to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/soura07/MOVIX-ENHANCED-MOVIE-RATINGS-AND-CAST-INSIGHTS.git
    ```
 
 2. **Install dependencies**: 
