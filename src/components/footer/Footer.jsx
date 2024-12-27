@@ -33,7 +33,7 @@ const Footer = () => {
                     <a href="https://www.facebook.com" className="icon">
                         <FaFacebookF />
                     </a>
-                    <a href="https://www.instagram.com/souradeep.env/" className="icon">
+                    <a href="https://www.instagram.com/souradeep.dev/" className="icon">
                         <FaInstagram />
                     </a>
                     <a href="https://twitter.com/Souradeep_2003_" className="icon">
